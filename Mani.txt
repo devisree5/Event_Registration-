@@ -1,0 +1,4 @@
+name:Mani
+age:22
+phone345223
+email:dsef@gmail.com
